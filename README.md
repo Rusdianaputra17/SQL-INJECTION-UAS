@@ -24,6 +24,6 @@
       $db   = "sql_injection";  
       ```
 4.  **Jalankan Aplikasi**
-    *  Buka aplikasi Visual Studio Code.
-    * Jalankan PHP Built-in Web Server dengan mengketik `php -S localhost:8000` pada terminal.
-    * Setelah itu tambahkakan file yang ingin di jalankan, misalnya `php -S localhost:8000/login.html` di browser.
+    * Aktifkan Apache & MySQL di XAMPP.
+    * Buka browser dan akses: http://localhost/SQL-INJECTION-UAS/login.html
+     
